@@ -1,0 +1,1 @@
+ALTER TABLE account ALTER COLUMN account_number TYPE varchar(26)
